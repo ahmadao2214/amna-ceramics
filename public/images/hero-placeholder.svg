@@ -1,0 +1,6 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#E8DED2"/>
+  <circle cx="600" cy="400" r="150" fill="#A67B5B" opacity="0.3"/>
+  <text x="600" y="400" font-family="Arial, sans-serif" font-size="36" fill="#6B5744" text-anchor="middle" dominant-baseline="middle">Hero Image</text>
+  <text x="600" y="440" font-family="Arial, sans-serif" font-size="20" fill="#6B5744" text-anchor="middle" dominant-baseline="middle">1200 × 800px</text>
+</svg>

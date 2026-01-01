@@ -1,0 +1,6 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="#E8DED2"/>
+  <circle cx="400" cy="400" r="120" fill="#A67B5B" opacity="0.3"/>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="24" fill="#6B5744" text-anchor="middle" dominant-baseline="middle">cup-1</text>
+  <text x="400" y="430" font-family="Arial, sans-serif" font-size="16" fill="#6B5744" text-anchor="middle" dominant-baseline="middle">800 × 800px</text>
+</svg>
